@@ -1,2 +1,2 @@
 transformer_lens==1.17.0
-sae_lens==1.2.0
+sae_lens==1.6.1
